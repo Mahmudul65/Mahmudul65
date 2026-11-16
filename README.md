@@ -1,7 +1,7 @@
 # Md Mahmudul Hasan
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=007ACC&width=500&lines=Aspiring+Software+Engineer+(Backend);Systems+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=007ACC&width=500&lines=Software+Engineer+(Backend);Systems+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
 An **Software Engineer (Backend)** specializing in building scalable backend services, robust database schemas, and data-intensive system architectures. Enthusiastic about distributed systems and modern software engineering patterns.
