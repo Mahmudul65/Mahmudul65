@@ -21,6 +21,7 @@ An **Software Engineer (Backend)** specializing in building scalable backend ser
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+   <img src="https://img.shields.io/badge/FastAPI-%23316192.svg?style=flat&logo=fastAPI&logoColor=red" alt="FastAPI" />
   <!-- Infrastructure & Tools -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux" />
